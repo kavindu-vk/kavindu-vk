@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on Rajarata University Of Sri Lanka<br>🌱 I’m currently learning React and Django
+🔭 I’m currently studying on Rajarata University Of Sri Lanka<br>🌱 I’m currently learning Flutter and Django
 
 
 ## 🌐 Socials:
