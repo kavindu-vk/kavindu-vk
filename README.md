@@ -1,7 +1,8 @@
 
 ###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-###
+<img align="right" height="120" src="https://i.imgflip.com/65efzo.gif" />
+
+
 # 💫 About Me:
 🔭  I’m currently studying on Rajarata University Of Sri Lanka<br>🌱  I’m currently learning Django and AWS<br>⚡ I'm also learning UI/UX design.
 
